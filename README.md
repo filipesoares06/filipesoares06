@@ -2,4 +2,3 @@
 ### Junior Developer @ Loop Future Internship
 
 ## About Me
-I'm a Junior Developer
