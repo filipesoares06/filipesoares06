@@ -11,7 +11,7 @@ I enjoy working with Python, learning new tools, and contributing to open-source
 
 ## 🌐 Connect With Me
 - 💼 LinkedIn: **www.linkedin.com/in/filipe-soares-29b923249**  
-- 📫 Email: **your@email.com**
+- 📫 Email: **filipefreiresoares@gmail.com**
 
 
 
